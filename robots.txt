@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bigbos88.edgeone.app/sitemap.xml
+Sitemap: https://nagacuan88id.github.io/nagacuan88/sitemap.xml
