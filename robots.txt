@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nagacuan88id.github.io/nagacuan88/
+Sitemap: https://nagacuan88id.github.io/nagacuan88/sitemap.xml
